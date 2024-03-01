@@ -1,2 +1,9 @@
 # Mlmehdi6461
 Testnet new project
+
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x00681BBa4Fc9DFa0Caf153Ae6365D0D62B30D99C'
+quorum: 1
